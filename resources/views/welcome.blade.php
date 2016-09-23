@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Ini Akan Bentrok
+                    Ini Akan Bentrok Untuk Bagus
                 </div>
 
                 <div class="links">
