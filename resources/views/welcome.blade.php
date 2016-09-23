@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Sajaa Mantaaapp NiHHH!!!!
+                    Adi Ganteng
                 </div>
 
                 <div class="links">
