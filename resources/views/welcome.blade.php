@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Adi Ganteng
+                    Ini Akan Bentrok
                 </div>
 
                 <div class="links">
